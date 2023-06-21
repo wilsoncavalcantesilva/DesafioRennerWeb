@@ -1,22 +1,33 @@
 # Exercício Renner WEB
 
+Cenário/Requisito obrigatório
+
 1 - WEB
-Desenvolva, uma automação de testes para o e-commerce: http://automationpractice.com/.
+
+Desenvolva, uma automação de testes para o e-commerce: https://automationexercise.com/
+
+ 
+
 O projeto deve conter, pelo menos, um cenário de teste para a seguinte História do Usuário:
 
-História do Usuário #1:
-Como um cliente cadastrado no automationpractice.com
-Eu quero fazer a compra de ao menos três produtos
-Para que eu possa estar bem vestida
+ 
 
-Os seguintes produtos do e-commerce devem ser utilizados, no tamanho e cor informada:
-- Printed Chiffon Dress na cor verde e tamanho "M"
-- Faded Short Sleeve T-shirts na cor azul
-- Blouse na quantidade 2
-- Printed Dress
+História do Usuário #1:  
 
-CENÁRIO BÔNUS :
-Desenvolva um novo cenário para a anteriormente citada no qual é realizado o cadastro de um novo usuário.
+Como um cliente cadastrado no https://automationexercise.com/  
+
+Eu quero fazer a compra de ao menos três produtos  
+
+Para que eu possa estar bem vestida  
+
+
+Os seguintes produtos do e-commerce devem ser adicionados ao carrinho de compras com as seguintes quantidades.  
+
+ - Stylish Dress  - 3 Itens  
+
+ - Beautiful Peacock Blue Cotton Linen Saree - 2 itens  
+
+ - Men Tshirt - 1  
 
 ----------------------------------------------------------------
 
